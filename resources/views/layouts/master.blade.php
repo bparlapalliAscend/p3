@@ -19,8 +19,9 @@
     <header>
         <div class="jumbotron">
   			  <h1>Developers Best Friend</h1>
-  			  <p>Use this site to create place holder text or place holder users. We all need to fake it sometimes - this just makes it easier</p> 
+  			  <p>Use this site to create place holder text or place holder users. We all need to fake it sometimes - this just makes it easier</p>  			
  		 </div>
+ 		   <p><a href="{{ url('/') }}">Home Page</a></p>
     </header>
 
     <section>
