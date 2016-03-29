@@ -1,0 +1,17 @@
+body { 
+	padding-top: 100px; }
+
+.center_div{
+    margin: 0 auto;
+    width:80%;
+}
+
+
+.gaptop { 
+	margin-top: :200px;
+ }
+ 
+ .loremtext {
+ 	clear:both;
+ float: left;
+ }
