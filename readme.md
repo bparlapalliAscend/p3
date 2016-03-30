@@ -13,4 +13,4 @@ IN some cases, there is a requirement for a number of users. The fake user gener
 
 #### list of links:
 - URL to project: p3.bparlapalli.me
-- Link to screencast: 
+- Link to screencast: http://screencast.com/t/xsjW1xqGU4
