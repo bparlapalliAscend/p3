@@ -36,11 +36,7 @@
 	</div>
 </div>
 
- <nav class="navbar navbar-default navbar-fixed-bottom">
-  <div class="container text-center">
-      &copy; {{ date('Y') }}
-  </div>
-</nav>
+
 
 
 </body>
