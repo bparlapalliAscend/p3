@@ -1,8 +1,5 @@
 # Developers best friend
 
-[![Lorem Ipsum](p3.bparlapalli.me/lorem)
-[![Users](http://p3.bparlapalli.me/user)
-
 Developers best friend is a p3 project for dwa15 class. The idea of the site is to provide basic "fake" data for web development projects.
 
 Most web sites need filler text instead of showing blank pages. The Lorem Ipsum text comes in handy for such uses.
