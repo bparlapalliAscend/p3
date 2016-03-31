@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
- 		Developers Best Friend
+ 		Developer's Best Friend | fake user generator
 @stop
 @section('content')
 <div class="col-md-4 col-md-offset-4">
@@ -9,8 +9,8 @@
 
  	<div class="form-group"> 	 
     {{ csrf_field() }}
-    <label for="noofusers">How Many fake Users?</label>
-    <input type='text' name='noofusers' value = "{{  old('noofusers') }}">
+    <label for='noofusers'>How Many fake Users?</label>
+    <input type='text' name='noofusers' value = "{{  old('noofusers') }}" placeholder="Number less than 1000">
      <div class="checkbox">
     <label>
       <input type="checkbox" name="birthday" {{ old('birthday') ? 'checked=checked' : ''}}> Include Birthday

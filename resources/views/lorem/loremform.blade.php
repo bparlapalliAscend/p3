@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
- 		Developers Best Friend
+ 		Developers Best Friend | lorem ipsum generator
 @stop
 @section('content')
 <div >
@@ -9,8 +9,8 @@
 
  	<div class="form-group"> 	 
     {{ csrf_field() }}
-    <label for="noofloremparas">How Many Lorem Ipsum Paragraphs?</label>
-    <input type='text' name='noofloremparas' value = "{{  old('noofloremparas') }}">
+    <label for='noofloremparas'>How Many Lorem Ipsum Paragraphs?</label>
+    <input type='text' name='noofloremparas' value = "{{  old('noofloremparas') }}" placeholder="Number less than 16">
 
      </div>
      <div class="form-group"> 	 
